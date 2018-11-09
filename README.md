@@ -1,2 +1,5 @@
 # hello-word
-first Repository
+
+Hi Humans!
+
+Jorey here.
